@@ -29,9 +29,9 @@ variable "desired_capacity" {
 }
 
 variable "security_group" {
-  default = "sg-b67239eb"
+  default = "sg-"
 }
 
 variable "subnet" {
-  default = "subnet-5796b30b"
+  default = "subnet-"
 }
